@@ -65,6 +65,6 @@ root
 
 ## Special Thanks to these People💝
 
-<a href="">
-  <img src="" />
+<a href="https://github.com/SubhanuSRoy/Eventify/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SubhanuSRoy/Eventify" />
 </a>
