@@ -1,0 +1,4 @@
+#Sat Oct 23 20:07:17 IST 2021
+base.0=D\:\\Flutter\\eventour\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
