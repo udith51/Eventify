@@ -15,3 +15,16 @@
 
 >  There is no market leading application that provides all the services required for a hustling person trying to conduct an event in 5 simple steps, we built this application to bring together the customers and the companies, increase market sales reach and interaction, also drastically decreases the time and effort of an induvidual put for conducting and organising an event.
 
+#### ⭐ What are the problems faced in the ecosystem?
+>- Decreased offline sales of companies  
+>- Reduced opportunity 
+>- High demanding time, money, energy and effort of customers 
+>- No platform for customers and companies to directly interact
+>- Collaboration within the induvidual companies 
+
+#### ⭐ How did we tackle them?
+>- Boosts the reach of the companies with increased sales.
+>- Easy patnership with Eventour for better opportunities.
+>- Drastically decreases the time, money and energy and effort of the customers.
+>- User friendly platform for increased interaction between customers and companies.
+>- Increased collaboration within companies for integrated events. 
