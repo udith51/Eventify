@@ -1,7 +1,7 @@
 # <div align=center>🌟Eventify🌟</div>
 ---
 
-<div align=center><img src="" height=350px wifdth = 700px></div>
+<div align=center><img src="https://user-images.githubusercontent.com/78701779/139559367-a6d58ba1-1cfd-4c41-ae46-6df51841a8ff.jpeg" height=350px wifdth = 700px></div>
 
 ### **<p align="center">📌 The GOTO Event management app.</p>**
 
@@ -14,3 +14,4 @@
 >There is always one market leading application which stays on top of people's head that satisfies all the needs in one go, incase of food delivery ZOMATO holds the cup and for cab services OLA makes it way to the top. People tend to comeback to these applications becuase the services give top notch supply for their demand.
 
 >  There is no market leading application that provides all the services required for a hustling person trying to conduct an event in 5 simple steps, we built this application to bring together the customers and the companies, increase market sales reach and interaction, also drastically decreases the time and effort of an induvidual put for conducting and organising an event.
+
