@@ -1,16 +1,16 @@
-# eventour
+# <div align=center>🌟Eventify🌟</div>
+---
 
-A new Flutter project.
+<div align=center><img src="" height=350px wifdth = 700px></div>
 
-## Getting Started
+### **<p align="center">📌 The GOTO Event management app.</p>**
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#### ⭐ What was our motivation?
+>As technology advances, we often aim for newer and better approaches for solving problems leaving behind the orthodox methods. Though, most of the things have been brought to our 6.5 inch screen, there's one thing which we feel, still needs improvisation- **The Event Management System**. The need arises mainly when one need to organise an event/ceremony outside our hometown. So instead of hustling around, worrying for contact details for best DJ, decorators around the city one just need to hop-on to our app and book his requirements for the occassion. With this motivation we have built this one stop app for all your occassion needs.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#### ⭐ Why did we build this project?
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+>There is always one market leading application which stays on top of people's head that satisfies all the needs in one go, incase of food delivery ZOMATO holds the cup and for cab services OLA makes it way to the top. People tend to comeback to these applications becuase the services give top notch supply for their demand.
+
+>  There is no market leading application that provides all the services required for a hustling person trying to conduct an event in 5 simple steps, we built this application to bring together the customers and the companies, increase market sales reach and interaction, also drastically decreases the time and effort of an induvidual put for conducting and organising an event.
